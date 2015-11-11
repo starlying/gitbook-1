@@ -1,37 +1,30 @@
-gitbook
-======
+GitBook Documentation
+=============
 
-This is a simple template shows how to quickly start a   [GitBook](https://www.gitbook.io)
+This book contains the entire documentation for **GitBook** (gitbook.com and format).
 
-这是个快速开始 [GitBook](https://www.gitbook.io) 的模板项目
+### Open Source Format
 
-##Usage 用法
+The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: **PDF**, **ePub**, **mobi** or as a **website**.
 
-###Installation 安装
+It is open source, the source code of the tool is available on [GitHub](https://github.com/GitbookIO/gitbook).
 
-    $ npm install gitbook -g
-  	
-###Checkout the repository 检出项目
+Issues and question related to the format and the toolchain should be posted on [GitHub](https://github.com/GitbookIO/gitbook/issues)
 
-    $ git clone https://github.com/waylau/gitbook.git
-  
-###Build 编译
+### GitBook.com
 
-	$ gitbook build ./
-	
-This is a `_book` directory was created.
+GitBook.com is the online platform ([www.gitbook.com](https://www.gitbook.com)) to create and host books built using the GitBook format.
 
-![](http://99btgc01.info/uploads/2014/12/02%282%29.jpg)
+### Other documentations
 
-###Run 运行
+Documentation for developers (API & Plugins) is accessible at [developer.gitbook.com](https://developer.gitbook.com).
 
-run the `index.html` in the `_book` directory .
- 
-打开该目录，右键运行 index.html 即可看到 gitbook 的效果
+Setup guide and documentation for the enterprise version is accessible at [help.enterprise.gitbook.com](http://help.enterprise.gitbook.com).
 
-![](http://99btgc01.info/uploads/2014/12/03%282%29.jpg)
+### Help and Support
 
-![](http://99btgc01.info/uploads/2014/12/04%282%29.jpg)
+We're always happy to help out with your books or any other questions you might have. You can ask a question or signal an issue on the following contact form at [gitbook.com/contact](https://www.gitbook.com/contact).
 
-Welcome to vist my blog at [www.waylau.com](http://www.waylau.com/)
+### Contribute to this documentation
 
+You can contribute to improve this documentation on [GitHub](https://github.com/GitbookIO/documentation) by signaling issues or proposing changes.
