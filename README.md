@@ -7,6 +7,8 @@ This book contains the entire documentation for **GitBook** (gitbook.com and for
 
 The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: **PDF**, **ePub**, **mobi** or as a **website**.
 
+OK
+
 It is open source, the source code of the tool is available on [GitHub](https://github.com/GitbookIO/gitbook).
 
 Issues and question related to the format and the toolchain should be posted on [GitHub](https://github.com/GitbookIO/gitbook/issues)
